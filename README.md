@@ -52,4 +52,4 @@
 <br>↓
 - 执行bean实例被<strong>@PreDestroy</strong>修改的方法
 <br>↓
-
+exit(0)
